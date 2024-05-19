@@ -2,4 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-
+*.json
+*.ipynb
+*.out
+*.log
