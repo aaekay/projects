@@ -6,3 +6,4 @@
 *.ipynb
 *.out
 *.log
+!ML/notebooks/*.ipynb

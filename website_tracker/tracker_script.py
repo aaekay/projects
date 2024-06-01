@@ -41,8 +41,8 @@ def main(url):
             except requests.RequestException as e:
                 log.info(f"Error fetching the website: {e}")
                 yag.send(subject="Error checking AIIMS Phd!", contents = "Error in website Click here")
-            current_hash = compute_hash(current_content)
-            if current_hash == previous_hash:
+            # current_hash = compute_hash(current_content)
+            if "July" not in current_content:
                 log.info("False, there is no change in website")
                 yag.send(to="mitugarg75@gmail.com", subject="No Changes in AIIMS Phd", contents = "There has been no changes in website")
                 log.info("mail sent")
@@ -50,7 +50,6 @@ def main(url):
                 log.info(f"There is a change in website. Please review. Click here {url}")
                 yag.send(to="mitugarg75@gmail.com", subject="Changes in AIIMS Phd!", contents = "There has been changes in website Click here")
                 log.info("mail send")
-            previous_hash = current_hash
         except:
             log.info(f"Error sending the mail: {e}")
         time.sleep(12*60*60)  # Wait for 24 hours
