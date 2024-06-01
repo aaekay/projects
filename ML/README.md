@@ -18,6 +18,6 @@ https://homl.info/colab3
 
 | Sr no. |  Activities | Link to jupyter notebook |
 | ----------| -------- | ------------------------ | 
-| 1 | If money makes people happy? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaekay/projects/ML/notebooks/money_happy.ipynb] |
-| 2 | End to End Machine Learning Project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaekay/projects/ML/notebooks/02_end_to_end_machine_learning_project.ipynb] | 
+| 1 | If money makes people happy? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaekay/projects/ML/notebooks/money_happy.ipynb) |
+| 2 | End to End Machine Learning Project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaekay/projects/ML/notebooks/02_end_to_end_machine_learning_project.ipynb) | 
 
