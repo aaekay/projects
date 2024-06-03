@@ -7,3 +7,4 @@
 *.out
 *.log
 !ML/notebooks/*.ipynb
+*.py[cod]
