@@ -1,0 +1,581 @@
+,cityName,localityName,localityId,latitude,longitude,device_type
+0,Delhi NCR,Sarita Vihar,ZWL005764,28.531759,77.293973,1 - Automated weather system
+1,Delhi NCR,Faridabad Sector 41-50,ZWL008752,28.460895,77.304764,1 - Automated weather system
+2,Delhi NCR,New Friends Colony,ZWL005996,28.565268,77.274971,1 - Automated weather system
+3,Delhi NCR,Sector 26 (Noida),ZWL005243,28.574404,77.334178,1 - Automated weather system
+4,Delhi NCR,New Industrial Town,ZWL009032,28.375702,77.299442,1 - Automated weather system
+5,Delhi NCR,Tilak Nagar,ZWL005428,28.641372,77.094689,1 - Automated weather system
+6,Delhi NCR,"Sector 10, Gurgaon",ZWL001073,28.436077,76.996757,1 - Automated weather system
+7,Delhi NCR,"Ashok Vihar, Delhi",ZWL001319,28.684453,77.174418,1 - Automated weather system
+8,Delhi NCR,Kalkaji,ZWL004800,28.529029,77.258939,1 - Automated weather system
+9,Delhi NCR,Sector 53,ZWL003118,28.442743,77.104379,1 - Automated weather system
+10,Delhi NCR,Sector 49,ZWL002091,28.408012,77.050064,1 - Automated weather system
+11,Delhi NCR,Vasundhara,ZWL002662,28.665225,77.366782,2 - Rain gauge system
+12,Delhi NCR,Rajinder Nagar,ZWL001404,28.640732,77.182900,1 - Automated weather system
+13,Delhi NCR,Safdarjung Enclave,ZWL008963,28.562608,77.191457,1 - Automated weather system
+14,Delhi NCR,Connaught Place,ZWL006538,28.630630,77.220640,1 - Automated weather system
+15,Delhi NCR,Sector 66,ZWL003075,28.380856,77.062751,1 - Automated weather system
+16,Delhi NCR,Sector 57,ZWL003721,28.422100,77.082740,1 - Automated weather system
+17,Delhi NCR,"Moti Bagh, Delhi",ZWL006396,28.575774,77.180697,1 - Automated weather system
+18,Delhi NCR,"Patel Nagar, Delhi",ZWL004535,28.652848,77.167909,1 - Automated weather system
+19,Delhi NCR,Greater Noida,ZWL008554,28.456171,77.521577,1 - Automated weather system
+20,Delhi NCR,"Karkardooma, Delhi",ZWL004533,28.656829,77.310553,1 - Automated weather system
+21,Delhi NCR,Tigaon,ZWL002179,28.417120,77.412569,1 - Automated weather system
+22,Delhi NCR,Sector 50 (Noida),ZWL007487,28.569103,77.364876,1 - Automated weather system
+23,Delhi NCR,"Vasant Kunj, Delhi",ZWL007120,28.524633,77.151206,1 - Automated weather system
+24,Delhi NCR,"Dwarka, Delhi",ZWL007486,28.594467,77.047747,1 - Automated weather system
+25,Delhi NCR,Sector 15,ZWL006287,28.457927,77.034816,1 - Automated weather system
+26,Delhi NCR,Mayur Vihar Phase III,ZWL002146,28.606000,77.323675,1 - Automated weather system
+27,Delhi NCR,Crossing Republik,ZWL008405,28.635043,77.419056,1 - Automated weather system
+28,Delhi NCR,Sector 28,ZWL004455,28.473457,77.087532,1 - Automated weather system
+29,Delhi NCR,"Palam Vihar, Gurgaon",ZWL005087,28.508782,77.033506,1 - Automated weather system
+30,Delhi NCR,Sector 63 (Noida),ZWL009648,28.621672,77.386474,1 - Automated weather system
+31,Delhi NCR,"Raj Nagar, Ghaziabad",ZWL008317,28.689174,77.428976,1 - Automated weather system
+32,Delhi NCR,Sector 128,ZWL005878,28.526706,77.354868,1 - Automated weather system
+33,Delhi NCR,"Sector 56, Gurgaon",ZWL003241,28.418235,77.101860,1 - Automated weather system
+34,Delhi NCR,Indirapuram,ZWL007224,28.644059,77.373883,1 - Automated weather system
+35,Delhi NCR,Malviya Nagar,ZWL009834,28.536048,77.213453,1 - Automated weather system
+36,Delhi NCR,"Sector 43, Gurgaon",ZWL007284,28.454416,77.088820,1 - Automated weather system
+37,Delhi NCR,Sector 120 (Noida),ZWL006738,28.586854,77.390832,1 - Automated weather system
+38,Delhi NCR,Saket,ZWL007329,28.523171,77.207543,1 - Automated weather system
+39,Delhi NCR,Sector 18 (Noida),ZWL001752,28.568937,77.324414,2 - Rain gauge system
+40,Delhi NCR,Naraina,ZWL007594,28.627479,77.142115,2 - Rain gauge system
+41,Delhi NCR,Patparganj,ZWL006116,28.632961,77.308344,1 - Automated weather system
+42,Delhi NCR,Ghitorni,ZWL009925,28.486412,77.125366,1 - Automated weather system
+43,Delhi NCR,Faridabad Sector 1-11,ZWL009335,28.365131,77.326157,1 - Automated weather system
+44,Delhi NCR,Sector 24,ZWL009638,28.497419,77.090980,1 - Automated weather system
+45,Delhi NCR,Rajouri Garden,ZWL005670,28.646438,77.122357,2 - Rain gauge system
+46,Delhi NCR,Vishnu Garden,ZWL003757,28.646933,77.095064,1 - Automated weather system
+47,Delhi NCR,"Sector 48, Gurgaon",ZWL003610,28.416008,77.032164,1 - Automated weather system
+48,Delhi NCR,Kirti Nagar,ZWL005971,28.654433,77.142367,1 - Automated weather system
+49,Delhi NCR,Faridabad Sector 81-89,ZWL003626,28.397247,77.345569,1 - Automated weather system
+50,Delhi NCR,GK I,ZWL005876,28.550911,77.235272,1 - Automated weather system
+51,Delhi NCR,Mohan Estate,ZWL006295,28.494788,77.312727,1 - Automated weather system
+52,Delhi NCR,Mukherjee Nagar,ZWL007653,28.702971,77.209740,1 - Automated weather system
+53,Delhi NCR,Mehrauli,ZWL006697,28.524426,77.183996,2 - Rain gauge system
+54,Delhi NCR,Burari,ZWL003259,28.753669,77.191037,1 - Automated weather system
+55,Delhi NCR,"Gaur city, Ghaziabad",ZWL004759,28.607703,77.434385,1 - Automated weather system
+56,Delhi NCR,GK II,ZWL004477,28.533936,77.243800,1 - Automated weather system
+57,Delhi NCR,Rohini,ZWL005077,28.723712,77.104596,2 - Rain gauge system
+58,Delhi NCR,Rangpuri,ZWL008191,28.533976,77.119516,1 - Automated weather system
+59,Delhi NCR,Sector 46,ZWL006092,28.438586,77.060773,1 - Automated weather system
+60,Delhi NCR,Sector 62 (Noida),ZWL001549,28.611088,77.369652,2 - Rain gauge system
+61,Delhi NCR,Shalimar Bagh,ZWL001036,28.720312,77.164849,1 - Automated weather system
+62,Delhi NCR,Model Town,ZWL006996,28.717232,77.194643,1 - Automated weather system
+63,Delhi NCR,Faridabad Sector 16-20,ZWL007566,28.422437,77.310113,1 - Automated weather system
+64,Delhi NCR,Sector 2 (Noida),ZWL009852,28.581459,77.316720,1 - Automated weather system
+65,Delhi NCR,Govindpuram,ZWL008648,28.689317,77.486930,2 - Rain gauge system
+66,Delhi NCR,Gwal Pahari,ZWL009728,28.435122,77.136308,1 - Automated weather system
+67,Delhi NCR,Nehru Nagar,ZWL006868,28.653441,77.449969,2 - Rain gauge system
+68,Delhi NCR,Chittaranjan Park,ZWL002067,28.537530,77.249070,1 - Automated weather system
+69,Delhi NCR,IMT Manesar,ZWL008791,28.384492,76.941950,1 - Automated weather system
+70,Delhi NCR,Sector 73 Z Kitchen,ZWL003043,28.580105,77.385436,2 - Rain gauge system
+71,Delhi NCR,Sector 51,ZWL004159,28.430042,77.065213,1 - Automated weather system
+72,Delhi NCR,Ballabhgarh,ZWL005960,28.343049,77.330317,2 - Rain gauge system
+73,Delhi NCR,Nangloi,ZWL009293,28.659524,77.060800,1 - Automated weather system
+74,Delhi NCR,Uttam Nagar,ZWL001663,28.616774,77.057136,1 - Automated weather system
+75,Delhi NCR,Sector 47,ZWL005762,28.424524,77.050065,2 - Rain gauge system
+76,Delhi NCR,Paharganj,ZWL005345,28.645112,77.212824,1 - Automated weather system
+77,Delhi NCR,Sector 25,ZWL008225,28.484268,77.084693,1 - Automated weather system
+78,Delhi NCR,Pitampura,ZWL001933,28.688724,77.138225,1 - Automated weather system
+79,Delhi NCR,Shahdara,ZWL003591,28.688657,77.278267,1 - Automated weather system
+80,Delhi NCR,Sector 31,ZWL007061,28.442946,77.057195,1 - Automated weather system
+81,Delhi NCR,Sector 23,ZWL008476,28.509080,77.057138,1 - Automated weather system
+82,Delhi NCR,Sector 12 (Noida),ZWL009008,28.599952,77.343188,1 - Automated weather system
+83,Delhi NCR,Mayur Vihar Phase II,ZWL005323,28.613695,77.302775,1 - Automated weather system
+84,Delhi NCR,Faridabad Sector 12-15,ZWL001412,28.394334,77.324016,1 - Automated weather system
+85,Delhi NCR,DLF PHASE 1 (SECTOR 26),ZWL005925,28.477910,77.103843,1 - Automated weather system
+86,Delhi NCR,Laxmi Nagar,ZWL008716,28.627366,77.279200,1 - Automated weather system
+87,Delhi NCR,Karol Bagh,ZWL009339,28.647924,77.190463,1 - Automated weather system
+88,Delhi NCR,Chhatarpur,ZWL009096,28.497203,77.171629,1 - Automated weather system
+89,Delhi NCR,Paschim Vihar,ZWL006720,28.665591,77.098478,2 - Rain gauge system
+90,Delhi NCR,"Sector 1, Noida",ZWL002908,28.573663,77.415427,1 - Automated weather system
+91,Delhi NCR,South Extension I,ZWL001186,28.578498,77.223627,1 - Automated weather system
+92,Delhi NCR,Sector 18,ZWL004789,28.495291,77.069729,1 - Automated weather system
+93,Delhi NCR,Kamla Nagar,ZWL008978,28.676018,77.208446,1 - Automated weather system
+94,Delhi NCR,Janakpuri,ZWL007903,28.623431,77.097814,2 - Rain gauge system
+95,Delhi NCR,Vikaspuri,ZWL008897,28.645655,77.065922,1 - Automated weather system
+96,Delhi NCR,Najafgarh,ZWL007431,28.607458,76.995980,2 - Rain gauge system
+97,Delhi NCR,Mayur Vihar Phase 1,ZWL001112,28.609961,77.296133,1 - Automated weather system
+98,Delhi NCR,Sez Noida 1,ZWL008649,28.507448,77.410089,2 - Rain gauge system
+99,Delhi NCR,"Gulavali, Noida",ZWL006384,28.436941,77.456903,1 - Automated weather system
+100,Delhi NCR,Sector 14,ZWL007840,28.471738,77.045472,1 - Automated weather system
+101,Delhi NCR,Sector 76(Noida),ZWL002072,28.570828,77.390429,1 - Automated weather system
+102,Delhi NCR,Green Park,ZWL003077,28.562981,77.209729,1 - Automated weather system
+103,Delhi NCR,Munirka,ZWL005395,28.554395,77.172547,1 - Automated weather system
+104,Delhi NCR,NEHRU PLACE,ZWL005729,28.555622,77.250890,1 - Automated weather system
+105,Delhi NCR,Lajpat Nagar,ZWL005736,28.565415,77.247221,1 - Automated weather system
+106,Delhi NCR,Sector 52 (Noida),ZWL007212,28.595742,77.362995,1 - Automated weather system
+107,Delhi NCR,Sector 100 (Noida),ZWL004803,28.547583,77.370951,1 - Automated weather system
+108,Delhi NCR,Sector 50,ZWL003444,28.418947,77.059581,1 - Automated weather system
+109,Delhi NCR,Dilshad Garden,ZWL008293,28.684684,77.320986,1 - Automated weather system
+110,Delhi NCR,"Sector 29, Gurgaon",ZWL007308,28.459498,77.061046,1 - Automated weather system
+111,Delhi NCR,SUSHANT LOK 1,ZWL008219,28.467923,77.076530,1 - Automated weather system
+112,Delhi NCR,SAHIBABAD,ZWL006234,28.682920,77.362827,1 - Automated weather system
+113,Delhi NCR,Sector 45 (Noida),ZWL007666,28.555596,77.345713,1 - Automated weather system
+114,Delhi NCR,Sector 84,ZWL002490,28.395433,76.967436,1 - Automated weather system
+115,Delhi NCR,"Sector 7, Gurgaon",ZWL007138,28.476288,77.013365,1 - Automated weather system
+116,Delhi NCR,Sector 27,ZWL009706,28.465260,77.085742,1 - Automated weather system
+117,Delhi NCR,Hauz Khas,ZWL001267,28.551132,77.211401,1 - Automated weather system
+118,Delhi NCR,Jangpura,ZWL003552,28.583630,77.246915,1 - Automated weather system
+119,Delhi NCR,"Sector 52, Gurgaon",ZWL008401,28.443858,77.083991,1 - Automated weather system
+120,Delhi NCR,"Vaishali, Ghaziabad",ZWL001758,28.649375,77.336609,1 - Automated weather system
+121,Kolkata,Shibpur,ZWL003128,22.578477,88.315675,2 - Rain gauge system
+122,Kolkata,"Kalyani 1, Kolkata",ZWL004322,22.983813,88.427417,2 - Rain gauge system
+123,Kolkata,Bansdroni,ZWL002495,22.472208,88.357875,2 - Rain gauge system
+124,Kolkata,Bow Barracks,ZWL009257,22.565476,88.360918,1 - Automated weather system
+125,Kolkata,"Baranagar, Kolkata",ZWL005435,22.660464,88.374255,2 - Rain gauge system
+126,Kolkata,"Sonarpur, Kolkata",ZWL007041,22.432033,88.408369,1 - Automated weather system
+127,Kolkata,Ballygunge,ZWL002918,22.532686,88.362677,1 - Automated weather system
+128,Kolkata,"Sinthi, Kolkata",ZWL003388,22.627697,88.380719,1 - Automated weather system
+129,Kolkata,Salt Lake 2,ZWL008806,22.583560,88.432176,2 - Rain gauge system
+130,Kolkata,Alipore,ZWL008635,22.536626,88.331142,1 - Automated weather system
+131,Kolkata,Baguihati,ZWL002312,22.614990,88.426184,1 - Automated weather system
+132,Kolkata,South Dum Dum,ZWL001499,22.621570,88.408915,1 - Automated weather system
+133,Kolkata,Purba Barisha,ZWL003315,22.474612,88.320775,1 - Automated weather system
+134,Kolkata,Jadavpur,ZWL003794,22.498720,88.362540,1 - Automated weather system
+135,Kolkata,Tollygunge,ZWL006574,22.498620,88.351732,1 - Automated weather system
+136,Kolkata,Shyam Bazar,ZWL004138,22.594302,88.377284,1 - Automated weather system
+137,Kolkata,Behala,ZWL009022,22.488571,88.306630,2 - Rain gauge system
+138,Kolkata,"Chandannagar, Kolkata",ZWL003271,22.865442,88.367339,1 - Automated weather system
+139,Kolkata,Barrackpore,ZWL003951,22.766771,88.361552,1 - Automated weather system
+140,Kolkata,East Kolkata Township,ZWL003915,22.512832,88.399411,1 - Automated weather system
+141,Kolkata,Bhowanipore,ZWL006750,22.526436,88.343904,2 - Rain gauge system
+142,Kolkata,Elgin,ZWL008828,22.543063,88.356096,1 - Automated weather system
+143,Kolkata,Howrah,ZWL008426,22.604678,88.342218,1 - Automated weather system
+144,Kolkata,New Alipore,ZWL007323,22.506135,88.332770,1 - Automated weather system
+145,Kolkata,Barasat,ZWL006266,22.735727,88.490498,1 - Automated weather system
+146,Kolkata,New Town (kolkata),ZWL008393,22.588818,88.457964,1 - Automated weather system
+147,Kolkata,Uttarpara,ZWL007966,22.692420,88.342900,1 - Automated weather system
+148,Kolkata,Santoshpur,ZWL001039,22.502107,88.388897,2 - Rain gauge system
+149,Kolkata,Liluah,ZWL003882,22.635342,88.343314,1 - Automated weather system
+150,Kolkata,Rajarhat,ZWL004925,22.621505,88.446915,1 - Automated weather system
+151,Kolkata,Park Street area,ZWL005244,22.552632,88.362888,2 - Rain gauge system
+152,Kolkata,Baghajatin Colony,ZWL003687,22.481243,88.374932,1 - Automated weather system
+153,Kolkata,Shrirampur,ZWL008120,22.735733,88.344597,2 - Rain gauge system
+154,Kolkata,Chhota Jagulia,ZWL007514,22.759573,88.747215,2 - Rain gauge system
+155,Kolkata,Dum Dum,ZWL003935,22.656310,88.423694,1 - Automated weather system
+156,Kolkata,Kestopur,ZWL002931,22.597524,88.431114,1 - Automated weather system
+157,Kolkata,Sodepur,ZWL006521,22.701254,88.383329,2 - Rain gauge system
+158,Kolkata,Nimta,ZWL005558,22.670256,88.413503,2 - Rain gauge system
+159,Kolkata,Shapoorji,ZWL005174,22.567623,88.497427,1 - Automated weather system
+160,Kolkata,Barabazar Market,ZWL002488,22.574220,88.366682,1 - Automated weather system
+161,Kolkata,Salt Lake 1,ZWL007934,22.573829,88.412814,2 - Rain gauge system
+162,Kolkata,Tangra,ZWL001584,22.555059,88.388175,1 - Automated weather system
+163,Kolkata,Gariahat,ZWL005429,22.514492,88.362000,2 - Rain gauge system
+164,Kolkata,Santragachi,ZWL005121,22.621044,88.283605,1 - Automated weather system
+165,Kolkata,Garia,ZWL007830,22.469249,88.382261,2 - Rain gauge system
+166,Kolkata,"Chinsurah, Kolkata",ZWL008991,22.933551,88.398649,1 - Automated weather system
+167,Kolkata,Kankurgachi,ZWL009194,22.573467,88.391666,1 - Automated weather system
+168,Kolkata,Kasba,ZWL004722,22.521693,88.389844,1 - Automated weather system
+169,Mumbai,Mira Road East,ZWL006536,19.278130,72.874722,1 - Automated weather system
+170,Mumbai,Kandivali West,ZWL004934,19.212156,72.828850,2 - Rain gauge system
+171,Mumbai,"Boisar, Mumbai",ZWL004821,19.804797,72.745805,2 - Rain gauge system
+172,Mumbai,Bhiwandi,ZWL007249,19.251790,73.087318,1 - Automated weather system
+173,Mumbai,Panvel,ZWL001164,18.998845,73.108933,1 - Automated weather system
+174,Mumbai,Kopar Khairane (Navi Mumbai),ZWL009537,19.113909,73.012598,1 - Automated weather system
+175,Mumbai,Vashi,ZWL007275,19.067662,73.004987,2 - Rain gauge system
+176,Mumbai,"Titwala, Mumbai",ZWL002556,19.292555,73.205899,1 - Automated weather system
+177,Mumbai,Kandivali East,ZWL006937,19.200730,72.865461,1 - Automated weather system
+178,Mumbai,Nalasopara,ZWL008636,19.424433,72.817134,1 - Automated weather system
+179,Mumbai,Lower Parel,ZWL003995,19.005114,72.820143,1 - Automated weather system
+180,Mumbai,Goregaon East,ZWL006938,19.163093,72.872277,1 - Automated weather system
+181,Mumbai,Santacruz East,ZWL008550,19.076131,72.858715,1 - Automated weather system
+182,Mumbai,"Ghatkopar East, Mumbai",ZWL004494,19.080794,72.922280,1 - Automated weather system
+183,Mumbai,Palava,ZWL003708,19.168067,73.074612,1 - Automated weather system
+184,Mumbai,Malad West,ZWL008711,19.187022,72.827076,1 - Automated weather system
+185,Mumbai,Borivali East,ZWL005991,19.241003,72.865970,1 - Automated weather system
+186,Mumbai,"Kalyan,West,Mumbai",ZWL002865,19.255127,73.128176,1 - Automated weather system
+187,Mumbai,Santacruz West,ZWL004749,19.082610,72.835608,1 - Automated weather system
+188,Mumbai,"Badlapur, Mumbai",ZWL001274,19.174156,73.225767,1 - Automated weather system
+189,Mumbai,Ambernath,ZWL007699,19.199776,73.181176,1 - Automated weather system
+190,Mumbai,Marine lines,ZWL001764,18.952178,72.825198,1 - Automated weather system
+191,Mumbai,Mulund West,ZWL002921,19.170765,72.942239,1 - Automated weather system
+192,Mumbai,Airoli,ZWL001410,19.170339,72.995114,1 - Automated weather system
+193,Mumbai,Kharghar (Navi Mumbai),ZWL009757,19.069735,73.055883,1 - Automated weather system
+194,Mumbai,Ulhasnagar (Mumbai),ZWL002059,19.224136,73.169340,1 - Automated weather system
+195,Mumbai,"Ghatkopar West, Mumbai",ZWL001058,19.096740,72.904562,1 - Automated weather system
+196,Mumbai,Bandra West,ZWL006995,19.068857,72.833000,1 - Automated weather system
+197,Mumbai,Dadar West,ZWL004692,19.021199,72.835378,1 - Automated weather system
+198,Mumbai,Andheri West,ZWL007667,19.137106,72.834828,1 - Automated weather system
+199,Mumbai,Vile Parle West,ZWL009338,19.109560,72.832194,1 - Automated weather system
+200,Mumbai,Byculla,ZWL009167,18.974283,72.833712,1 - Automated weather system
+201,Mumbai,Vasai,ZWL006032,19.364358,72.836612,1 - Automated weather system
+202,Mumbai,"Kalyan,East (Mumbai)",ZWL007397,19.221503,73.138111,1 - Automated weather system
+203,Mumbai,"Ulwe, Mumbai",ZWL009360,18.974217,73.024914,1 - Automated weather system
+204,Mumbai,Fort,ZWL002205,18.940613,72.834235,1 - Automated weather system
+205,Mumbai,Andheri East,ZWL008975,19.108639,72.874437,1 - Automated weather system
+206,Mumbai,Chembur,ZWL009252,19.049840,72.907847,2 - Rain gauge system
+207,Mumbai,"Palghar, Mumbai",ZWL002558,19.700631,72.763031,2 - Rain gauge system
+208,Mumbai,"Mumbra, Mumbai",ZWL002742,19.172636,73.023715,2 - Rain gauge system
+209,Mumbai,Mulund East,ZWL004971,19.154253,72.962493,2 - Rain gauge system
+210,Mumbai,"Shirdhon, Mumbai",ZWL008348,19.195881,73.128886,1 - Automated weather system
+211,Mumbai,Virar,ZWL001344,19.461784,72.799199,1 - Automated weather system
+212,Mumbai,Tardeo,ZWL007606,18.961317,72.805513,1 - Automated weather system
+213,Mumbai,Bandra East,ZWL005697,19.064138,72.852737,2 - Rain gauge system
+214,Mumbai,Thane West,ZWL005442,19.227309,72.972736,1 - Automated weather system
+215,Mumbai,Kurla West,ZWL004189,19.079972,72.881537,1 - Automated weather system
+216,Mumbai,Goregaon West,ZWL005000,19.162722,72.841610,1 - Automated weather system
+217,Mumbai,Hiranandani Estate,ZWL002056,19.267411,72.967074,1 - Automated weather system
+218,Mumbai,Dombivli,ZWL009826,19.210229,73.102272,1 - Automated weather system
+219,Mumbai,Bhandup West,ZWL007889,19.151889,72.934553,1 - Automated weather system
+220,Mumbai,Kamothe,ZWL008977,19.023359,73.091814,1 - Automated weather system
+221,Mumbai,"Powai, Mumbai",ZWL006622,19.115248,72.908952,1 - Automated weather system
+222,Mumbai,Naupada,ZWL002074,19.188451,72.968001,1 - Automated weather system
+223,Mumbai,Bhayandar West,ZWL008874,19.257869,72.804743,1 - Automated weather system
+224,Mumbai,Vileparle East,ZWL001334,19.098430,72.864947,1 - Automated weather system
+225,Mumbai,Sion,ZWL008378,19.045271,72.864631,1 - Automated weather system
+226,Mumbai,Nerul (Navi Mumbai),ZWL007690,19.031072,73.026647,1 - Automated weather system
+227,Mumbai,Dahisar West,ZWL007706,19.255014,72.848267,1 - Automated weather system
+228,Mumbai,Colaba,ZWL005320,18.919405,72.824376,1 - Automated weather system
+229,Mumbai,Mahim,ZWL006544,19.039256,72.843913,1 - Automated weather system
+230,Mumbai,Wadala,ZWL002686,19.017538,72.867138,1 - Automated weather system
+231,Mumbai,Borivali West,ZWL001089,19.229714,72.839710,1 - Automated weather system
+232,Mumbai,"Palava Lakeshore,Mumbai",ZWL008360,19.165716,73.105733,1 - Automated weather system
+233,Bengaluru,Banashankari,ZWL003467,12.936787,77.556079,1 - Automated weather system
+234,Bengaluru,Rajarajeshwari Nagar,ZWL004900,12.918637,77.505467,1 - Automated weather system
+235,Bengaluru,JP Nagar,ZWL005530,12.893441,77.560436,1 - Automated weather system
+236,Bengaluru,Mahadevapura,ZWL007643,12.985322,77.687578,1 - Automated weather system
+237,Bengaluru,Jalahalli,ZWL003159,13.031518,77.530986,1 - Automated weather system
+238,Bengaluru,RT Nagar,ZWL002736,13.021267,77.601234,1 - Automated weather system
+239,Bengaluru,KR Puram,ZWL006369,13.016987,77.706819,1 - Automated weather system
+240,Bengaluru,Electronic City,ZWL006274,12.833101,77.673182,1 - Automated weather system
+241,Bengaluru,Vijayanagar,ZWL005375,12.973219,77.519303,1 - Automated weather system
+242,Bengaluru,Marathahalli,ZWL008600,12.955103,77.696507,1 - Automated weather system
+243,Bengaluru,Sarjapur road,ZWL002292,12.900225,77.697451,1 - Automated weather system
+244,Bengaluru,Brookefields,ZWL004341,12.967420,77.717851,1 - Automated weather system
+245,Bengaluru,Whitefield,ZWL007633,12.975224,77.740422,1 - Automated weather system
+246,Bengaluru,Nagavara,ZWL009212,13.048370,77.625534,1 - Automated weather system
+247,Bengaluru,New BEL Road,ZWL007628,13.040495,77.569420,1 - Automated weather system
+248,Bengaluru,Koramangala,ZWL001156,12.933756,77.625825,1 - Automated weather system
+249,Bengaluru,"Bannerghatta Road, Bangalore",ZWL004924,12.891397,77.608176,1 - Automated weather system
+250,Bengaluru,Aavalahalli,ZWL009229,13.034488,77.712241,1 - Automated weather system
+251,Bengaluru,BIAL Airport Road,ZWL005576,13.178996,77.630005,1 - Automated weather system
+252,Bengaluru,Yelahanka,ZWL006658,13.111809,77.589276,1 - Automated weather system
+253,Bengaluru,Kadugodi,ZWL002882,13.007511,77.763209,1 - Automated weather system
+254,Bengaluru,Kammanahalli,ZWL006631,13.016050,77.661735,1 - Automated weather system
+255,Bengaluru,HSR Layout,ZWL001196,12.908482,77.641773,1 - Automated weather system
+256,Bengaluru,BTM Layout,ZWL006600,12.916931,77.608897,1 - Automated weather system
+257,Bengaluru,Varthur,ZWL006854,12.936055,77.723415,1 - Automated weather system
+258,Bengaluru,Indiranagar,ZWL001273,12.952636,77.653059,1 - Automated weather system
+259,Bengaluru,Jayanagar,ZWL008105,12.944441,77.581003,1 - Automated weather system
+260,Bengaluru,Sahakaranagar,ZWL005206,13.059918,77.591344,1 - Automated weather system
+261,Bengaluru,"Devanahalli, Bangalore",ZWL008797,13.258381,77.716183,1 - Automated weather system
+262,Bengaluru,MG Road,ZWL001962,12.982689,77.608075,1 - Automated weather system
+263,Bengaluru,Rajajinagar,ZWL006844,12.993217,77.557903,1 - Automated weather system
+264,Bengaluru,Bellandur,ZWL004164,12.936225,77.665059,1 - Automated weather system
+265,Pune,NIGDI(Pune),ZWL007698,18.646511,73.775411,1 - Automated weather system
+266,Pune,Bibvewadi (Pune),ZWL005773,18.492332,73.861939,1 - Automated weather system
+267,Pune,Nanded-Nahre,ZWL009577,18.453179,73.811077,1 - Automated weather system
+268,Pune,Bhosari (Pune),ZWL002253,18.643893,73.858653,1 - Automated weather system
+269,Pune,Camp Area,ZWL003498,18.513693,73.877293,1 - Automated weather system
+270,Pune,Magarpatta,ZWL004311,18.519482,73.934360,1 - Automated weather system
+271,Pune,Pimpri,ZWL007801,18.625381,73.791194,2 - Rain gauge system
+272,Pune,Yerwada,ZWL008134,18.544659,73.869499,1 - Automated weather system
+273,Pune,Kalyani Nagar (Pune),ZWL009625,18.546538,73.906594,1 - Automated weather system
+274,Pune,"Sus, Pune",ZWL001627,18.564293,73.753879,1 - Automated weather system
+275,Pune,Bavdhan,ZWL006236,18.514730,73.777922,1 - Automated weather system
+276,Pune,Viman nagar,ZWL006743,18.564998,73.911551,1 - Automated weather system
+277,Pune,Aundh (Pune),ZWL004927,18.559795,73.807123,1 - Automated weather system
+278,Pune,Katraj (Pune),ZWL008370,18.451394,73.847642,1 - Automated weather system
+279,Pune,Pimple Saudagar_Pune,ZWL004523,18.600897,73.798441,1 - Automated weather system
+280,Pune,Dhanori,ZWL001778,18.588936,73.907711,1 - Automated weather system
+281,Pune,Dehu Road,ZWL003386,18.695874,73.740365,1 - Automated weather system
+282,Pune,Koregaon Park (Pune),ZWL009157,18.535326,73.883976,1 - Automated weather system
+283,Pune,Hinjewadi - Phase 2,ZWL004962,18.585004,73.706319,1 - Automated weather system
+284,Pune,Wakad_Pune,ZWL005340,18.599555,73.774652,2 - Rain gauge system
+285,Pune,"Manas Lake, Pune",ZWL009671,18.491382,73.748953,1 - Automated weather system
+286,Pune,Sadashiv Peth,ZWL008921,18.511357,73.856996,2 - Rain gauge system
+287,Pune,Ghorpadi (Pune),ZWL008940,18.519767,73.897269,2 - Rain gauge system
+288,Pune,Pashan (Pune),ZWL009874,18.527587,73.789459,1 - Automated weather system
+289,Pune,"SP Infocity, Pune",ZWL006660,18.487813,73.947187,2 - Rain gauge system
+290,Pune,"Manjri,Pune",ZWL003813,18.509232,73.978364,2 - Rain gauge system
+291,Pune,"Khadki, Pune",ZWL007471,18.563289,73.835023,1 - Automated weather system
+292,Pune,Kothrud (Pune),ZWL009602,18.504984,73.811587,1 - Automated weather system
+293,Pune,Sinhagad Road(Pune),ZWL002208,18.477264,73.826437,1 - Automated weather system
+294,Pune,"New Sangvi, Pune",ZWL007895,18.578959,73.823437,2 - Rain gauge system
+295,Pune,"Nimgaon, Pune",ZWL003099,18.794589,73.910016,1 - Automated weather system
+296,Pune,Wagholi,ZWL004575,18.579310,73.972122,2 - Rain gauge system
+297,Pune,"Keshavnagar, Pune",ZWL004513,18.537273,73.944521,1 - Automated weather system
+298,Pune,Baner (Pune),ZWL008983,18.567954,73.783475,1 - Automated weather system
+299,Pune,Warje (Pune),ZWL005520,18.472703,73.788400,1 - Automated weather system
+300,Pune,"Mundwa, Pune",ZWL003300,18.535220,73.918549,2 - Rain gauge system
+301,Pune,Chakan,ZWL001963,18.752436,73.837484,1 - Automated weather system
+302,Pune,Shivaji Nagar (Pune),ZWL002422,18.526724,73.841658,2 - Rain gauge system
+303,Pune,"Yewalewadi, Pune",ZWL005088,18.439804,73.902433,2 - Rain gauge system
+304,Pune,"Bopkhel, Pune",ZWL003014,18.586306,73.859602,1 - Automated weather system
+305,Pune,Kharadi,ZWL001472,18.552390,73.941901,1 - Automated weather system
+306,Pune,Talegaon Dabhade,ZWL004339,18.738724,73.675701,1 - Automated weather system
+307,Pune,Hinjewadi - Phase 1,ZWL003817,18.596583,73.733312,1 - Automated weather system
+308,Pune,Wanowrie-Kondhwa,ZWL007925,18.477085,73.900966,1 - Automated weather system
+309,Hyderabad,Nagole,ZWL003370,17.359969,78.565724,1 - Automated weather system
+310,Hyderabad,Attapur,ZWL002088,17.380875,78.415717,1 - Automated weather system
+311,Hyderabad,Peerzadiguda,ZWL006702,17.411644,78.578220,1 - Automated weather system
+312,Hyderabad,Begumpet,ZWL008776,17.442659,78.482009,2 - Rain gauge system
+313,Hyderabad,"Suraram, Hyderabad",ZWL003918,17.559752,78.437467,1 - Automated weather system
+314,Hyderabad,Banjara Hills,ZWL004079,17.419238,78.438474,1 - Automated weather system
+315,Hyderabad,Alwal,ZWL008309,17.508852,78.507402,1 - Automated weather system
+316,Hyderabad,Sainikpuri,ZWL002433,17.489079,78.558910,2 - Rain gauge system
+317,Hyderabad,Saroor Nagar,ZWL007390,17.348264,78.530476,1 - Automated weather system
+318,Hyderabad,Karkhana,ZWL004767,17.467142,78.496696,1 - Automated weather system
+319,Hyderabad,Kompally,ZWL006016,17.533309,78.489965,1 - Automated weather system
+320,Hyderabad,Himayatnagar,ZWL003283,17.402602,78.487229,1 - Automated weather system
+321,Hyderabad,Medchal Road,ZWL007311,17.637191,78.480392,1 - Automated weather system
+322,Hyderabad,Kukatpally,ZWL005919,17.495894,78.416259,1 - Automated weather system
+323,Hyderabad,Amberpet,ZWL001822,17.407658,78.521703,1 - Automated weather system
+324,Hyderabad,Jeedimetla,ZWL008208,17.495621,78.450281,1 - Automated weather system
+325,Hyderabad,Gachibowli,ZWL001362,17.452114,78.351486,1 - Automated weather system
+326,Hyderabad,LB Nagar,ZWL002162,17.345727,78.557062,1 - Automated weather system
+327,Hyderabad,Dilsukhnagar,ZWL009712,17.370431,78.536184,1 - Automated weather system
+328,Hyderabad,Masab Tank,ZWL005963,17.398217,78.462258,2 - Rain gauge system
+329,Hyderabad,Bachupally,ZWL008297,17.544887,78.359975,1 - Automated weather system
+330,Hyderabad,Manikonda,ZWL005424,17.405930,78.388380,1 - Automated weather system
+331,Hyderabad,Shamshabad,ZWL008585,17.257432,78.387920,1 - Automated weather system
+332,Hyderabad,Miyapur,ZWL008599,17.500034,78.342670,2 - Rain gauge system
+333,Hyderabad,"Hayath Nagar, Hyderabad",ZWL006535,17.326620,78.609288,2 - Rain gauge system
+334,Hyderabad,"Sangareddy, Hyderabad",ZWL006545,17.598038,78.091346,1 - Automated weather system
+335,Hyderabad,JNTU,ZWL009719,17.485166,78.389775,1 - Automated weather system
+336,Hyderabad,Serilingampally,ZWL008890,17.485245,78.313916,1 - Automated weather system
+337,Hyderabad,Nizampet,ZWL007119,17.509398,78.390364,2 - Rain gauge system
+338,Hyderabad,"Q City, Hyderabad",ZWL004747,17.421788,78.318868,1 - Automated weather system
+339,Hyderabad,Madhapur,ZWL004802,17.441185,78.398416,1 - Automated weather system
+340,Hyderabad,Narayanguda,ZWL004665,17.392120,78.494443,1 - Automated weather system
+341,Hyderabad,ECIL,ZWL005999,17.460327,78.567924,1 - Automated weather system
+342,Hyderabad,Toli Chowki,ZWL003360,17.398121,78.421238,1 - Automated weather system
+343,Hyderabad,Kondapur,ZWL007187,17.472485,78.367854,1 - Automated weather system
+344,Hyderabad,Charminar,ZWL007344,17.375037,78.454499,1 - Automated weather system
+345,Hyderabad,Sivarampalli,ZWL008438,17.345995,78.439283,1 - Automated weather system
+346,Hyderabad,Tarnaka,ZWL005494,17.431829,78.550940,2 - Rain gauge system
+347,Hyderabad,Moosapet,ZWL009519,17.453292,78.421126,1 - Automated weather system
+348,Hyderabad,"Patancheru, Hyderabad",ZWL001687,17.542613,78.276529,2 - Rain gauge system
+349,Hyderabad,Vanasthali Puram,ZWL005569,17.318241,78.544989,1 - Automated weather system
+350,Hyderabad,Ameerpet,ZWL003027,17.434737,78.446618,1 - Automated weather system
+351,Hyderabad,Uppal,ZWL001337,17.403149,78.554106,1 - Automated weather system
+352,Hyderabad,Malakpet,ZWL001579,17.371621,78.502672,1 - Automated weather system
+353,Hyderabad,Hafiz Baba Nagar,ZWL006699,17.338717,78.497590,2 - Rain gauge system
+354,Hyderabad,"Mokila, Hyderabad",ZWL008512,17.436228,78.190072,1 - Automated weather system
+355,Chennai,Potheri,ZWL006789,12.799983,80.029865,1 - Automated weather system
+356,Chennai,Pallavaram,ZWL004297,12.973055,80.151271,2 - Rain gauge system
+357,Chennai,Nungambakkam,ZWL005190,13.060471,80.255887,1 - Automated weather system
+358,Chennai,"Anna Nagar, Chennai",ZWL003967,13.086884,80.206602,2 - Rain gauge system
+359,Chennai,Perambur,ZWL008996,13.121741,80.225058,1 - Automated weather system
+360,Chennai,"Mogappair, Chennai",ZWL005857,13.080365,80.175724,1 - Automated weather system
+361,Chennai,Royapuram,ZWL006232,13.136635,80.289535,2 - Rain gauge system
+362,Chennai,Mugalivakkam,ZWL008548,13.014886,80.152455,2 - Rain gauge system
+363,Chennai,Porur,ZWL006053,13.048069,80.158163,1 - Automated weather system
+364,Chennai,Redhills,ZWL001398,13.191443,80.181225,1 - Automated weather system
+365,Chennai,Tambaram,ZWL001701,12.934834,80.101824,1 - Automated weather system
+366,Chennai,Avadi,ZWL008876,13.125301,80.069776,1 - Automated weather system
+367,Chennai,Kilpauk,ZWL003387,13.080772,80.248018,1 - Automated weather system
+368,Chennai,Ashok Nagar (CHENNAI),ZWL007059,13.022680,80.200286,1 - Automated weather system
+369,Chennai,Adyar,ZWL006520,12.993947,80.247174,1 - Automated weather system
+370,Chennai,Alwarpet,ZWL001210,13.032366,80.257625,2 - Rain gauge system
+371,Chennai,Selaiyur,ZWL007171,12.916570,80.134348,1 - Automated weather system
+372,Chennai,"Thandalam, Chennai",ZWL006329,12.863785,79.947886,2 - Rain gauge system
+373,Chennai,Sholinganallur,ZWL004233,12.921608,80.233727,1 - Automated weather system
+374,Chennai,Ambattur,ZWL007209,13.117566,80.146667,2 - Rain gauge system
+375,Chennai,Medavakkam,ZWL003452,12.931197,80.182327,1 - Automated weather system
+376,Chennai,Poonamallee,ZWL007176,13.052763,80.090763,1 - Automated weather system
+377,Chennai,"Minjur, Chennai",ZWL009897,13.282298,80.266616,1 - Automated weather system
+378,Chennai,Urapakkam,ZWL004882,12.878957,80.070307,1 - Automated weather system
+379,Chennai,Velachery,ZWL006156,12.989300,80.199988,2 - Rain gauge system
+380,Chennai,Navallur,ZWL001141,12.841923,80.209025,2 - Rain gauge system
+381,Chennai,Vadapalani,ZWL004431,13.065160,80.207917,1 - Automated weather system
+382,Chennai,T Nagar,ZWL001516,13.026256,80.228120,2 - Rain gauge system
+383,Lucknow,Hazratganj,ZWL003425,26.844819,80.940833,2 - Rain gauge system
+384,Lucknow,Aminabad,ZWL006490,26.856770,80.925103,2 - Rain gauge system
+385,Lucknow,Chowk,ZWL009091,26.873686,80.894502,2 - Rain gauge system
+386,Lucknow,"Telibagh, Lucknow",ZWL003030,26.776664,80.936755,2 - Rain gauge system
+387,Lucknow,Husainganj,ZWL004978,26.836970,80.926110,2 - Rain gauge system
+388,Lucknow,Jankipuram,ZWL009177,26.926427,80.936884,2 - Rain gauge system
+389,Lucknow,Arjunganj,ZWL004436,26.794554,80.999112,2 - Rain gauge system
+390,Lucknow,"Chinhat, Lucknow",ZWL005470,26.878323,81.038299,2 - Rain gauge system
+391,Lucknow,Mahanagar,ZWL001500,26.886387,80.960641,2 - Rain gauge system
+392,Lucknow,Ashiyana,ZWL003371,26.790510,80.913855,2 - Rain gauge system
+393,Lucknow,"Indira Nagar, Lucknow",ZWL003635,26.883684,80.990290,2 - Rain gauge system
+394,Lucknow,"Vasant Kunj, Lucknow",ZWL003320,26.877121,80.878447,2 - Rain gauge system
+395,Lucknow,Rajajipuram,ZWL009682,26.842055,80.873868,2 - Rain gauge system
+396,Lucknow,Gomti Nagar,ZWL002273,26.850582,80.999875,2 - Rain gauge system
+397,Lucknow,Alambagh,ZWL002331,26.810769,80.904864,2 - Rain gauge system
+398,Lucknow,"Aliganj, Lucknow",ZWL007731,26.890082,80.942007,2 - Rain gauge system
+399,Lucknow,Kalyanpur,ZWL007011,26.907206,80.974143,2 - Rain gauge system
+400,Kochi,Eroor,ZWL003768,9.929826,76.332369,2 - Rain gauge system
+401,Kochi,Kakkanad,ZWL005555,10.014153,76.358626,2 - Rain gauge system
+402,Kochi,"Nedumbassery,Kochi",ZWL002986,10.178008,76.386636,2 - Rain gauge system
+403,Kochi,"North Paravur, Kochi",ZWL004273,10.162441,76.216317,2 - Rain gauge system
+404,Kochi,"Aluva, Kochi",ZWL005425,10.106615,76.348843,2 - Rain gauge system
+405,Kochi,Ambalamugal,ZWL004691,9.980241,76.397987,2 - Rain gauge system
+406,Kochi,Kalamassery,ZWL001981,10.046034,76.308117,2 - Rain gauge system
+407,Kochi,Kaloor,ZWL003786,10.000143,76.298744,2 - Rain gauge system
+408,Kochi,"Perumbavoor,Kochi",ZWL009487,10.117563,76.460320,2 - Rain gauge system
+409,Kochi,Thiruvankulam,ZWL007216,9.932264,76.385740,2 - Rain gauge system
+410,Kochi,"Vypin, Kochi",ZWL002327,10.019731,76.245595,2 - Rain gauge system
+411,Kochi,Ernakulam,ZWL006873,9.969514,76.288288,2 - Rain gauge system
+412,Kochi,Fort Kochi,ZWL004591,9.931564,76.268065,2 - Rain gauge system
+413,Jaipur,Mansarovar-2,ZWL005082,26.844258,75.768570,2 - Rain gauge system
+414,Jaipur,Tonk road 2,ZWL003863,26.853567,75.794945,2 - Rain gauge system
+415,Jaipur,Jagatpura,ZWL009286,26.825942,75.851086,2 - Rain gauge system
+416,Jaipur,Shyam Nagar,ZWL009458,26.887617,75.756174,2 - Rain gauge system
+417,Jaipur,C Scheme,ZWL003704,26.916823,75.801190,2 - Rain gauge system
+418,Jaipur,Lal Kothi,ZWL003606,26.893689,75.797800,2 - Rain gauge system
+419,Jaipur,Pink City,ZWL009569,26.929588,75.823855,2 - Rain gauge system
+420,Jaipur,Vaishali Nagar,ZWL001750,26.909885,75.739394,2 - Rain gauge system
+421,Jaipur,Malviya Nagar,ZWL002751,26.854191,75.810798,2 - Rain gauge system
+422,Jaipur,Sodala,ZWL005080,26.904751,75.777608,2 - Rain gauge system
+423,Jaipur,Vidhyadhar Nagar,ZWL008680,26.963051,75.770166,2 - Rain gauge system
+424,Jaipur,Raja Park,ZWL008249,26.902497,75.826544,2 - Rain gauge system
+425,Jaipur,Shastri Nagar,ZWL008915,26.936514,75.797054,2 - Rain gauge system
+426,Jaipur,Pratap Nagar,ZWL006372,26.798396,75.815353,2 - Rain gauge system
+427,Ahmedabad,Paldi,ZWL003133,22.994998,72.557474,2 - Rain gauge system
+428,Ahmedabad,Shahibag,ZWL002302,23.058607,72.592212,2 - Rain gauge system
+429,Ahmedabad,Navrangpura,ZWL003747,23.038426,72.558241,2 - Rain gauge system
+430,Ahmedabad,Chandkheda,ZWL002503,23.117204,72.607123,2 - Rain gauge system
+431,Ahmedabad,Science-City Sola,ZWL005979,23.087361,72.510289,2 - Rain gauge system
+432,Ahmedabad,"Sector 16, Gandhinagar",ZWL005987,23.216612,72.652543,2 - Rain gauge system
+433,Ahmedabad,Vastrapur,ZWL001959,23.042513,72.524312,2 - Rain gauge system
+434,Ahmedabad,Prahlad Nagar,ZWL007404,22.998074,72.515955,2 - Rain gauge system
+435,Ahmedabad,Nikol,ZWL001898,23.077071,72.637566,2 - Rain gauge system
+436,Ahmedabad,"Infocity, Gandhinagar",ZWL002250,23.177762,72.636221,2 - Rain gauge system
+437,Ahmedabad,Naranpura,ZWL004415,23.072018,72.573161,2 - Rain gauge system
+438,Ahmedabad,Bopal,ZWL006288,23.011294,72.464041,2 - Rain gauge system
+439,Ahmedabad,Maninagar,ZWL009182,22.985307,72.610322,2 - Rain gauge system
+440,Ahmedabad,Bodakdev,ZWL009990,23.055398,72.491724,2 - Rain gauge system
+441,Ahmedabad,Gota,ZWL003455,23.131231,72.543606,2 - Rain gauge system
+442,Chandigarh,Sector 15 (Chandigarh),ZWL007561,30.764466,76.774815,2 - Rain gauge system
+443,Chandigarh,Sector 8 (Chandigarh),ZWL006687,30.749265,76.801584,2 - Rain gauge system
+444,Chandigarh,Manimajra (Chandigarh),ZWL001934,30.722848,76.835395,2 - Rain gauge system
+445,Chandigarh,Industrial Area Phase I (Chandigarh),ZWL003936,30.701381,76.808231,2 - Rain gauge system
+446,Chandigarh,Sector 59 (Chandigarh),ZWL004716,30.725954,76.716657,2 - Rain gauge system
+447,Chandigarh,"Sector 20, Panchkula",ZWL002303,30.667002,76.860170,2 - Rain gauge system
+448,Chandigarh,Sector 8/9 nd  Panchkula,ZWL009521,30.694507,76.849604,2 - Rain gauge system
+449,Chandigarh,Sector 28 (Chandigarh),ZWL006817,30.724245,76.808833,2 - Rain gauge system
+450,Chandigarh,Phase 10 Mohali,ZWL003496,30.692094,76.733846,2 - Rain gauge system
+451,Chandigarh,"Gillco, Chandigarh",ZWL009894,30.736526,76.654293,2 - Rain gauge system
+452,Chandigarh,Sector 46 (Chandigarh),ZWL004101,30.705920,76.762310,2 - Rain gauge system
+453,Chandigarh,Sector 70 (Chandigarh),ZWL003262,30.709870,76.692050,2 - Rain gauge system
+454,Chandigarh,"VIP Road, Zirakpur",ZWL009430,30.656048,76.823298,2 - Rain gauge system
+455,Chandigarh,VR Mall,ZWL004196,30.730066,76.684242,2 - Rain gauge system
+456,Chandigarh,Sector 35 (Chandigarh),ZWL003093,30.727290,76.756632,2 - Rain gauge system
+457,Chandigarh,Sector 22 (Chandigarh),ZWL009406,30.735307,76.774912,2 - Rain gauge system
+458,Goa,"Verna, Goa",ZWL002150,15.380640,73.909304,2 - Rain gauge system
+459,Goa,"Mapusa, Goa",ZWL008519,15.599556,73.791137,2 - Rain gauge system
+460,Goa,"Calangute, Goa",ZWL004452,15.532704,73.762608,2 - Rain gauge system
+461,Goa,"Majorda, Goa",ZWL006556,15.255895,73.937616,2 - Rain gauge system
+462,Goa,"Upper panaji, Goa",ZWL002137,15.460913,73.835391,2 - Rain gauge system
+463,Goa,"Ponda, Goa",ZWL005093,15.398953,74.002377,2 - Rain gauge system
+464,Goa,"Margao, Goa",ZWL002142,15.231363,73.997689,2 - Rain gauge system
+465,Goa,"Vasco, Goa",ZWL004621,15.387592,73.829979,2 - Rain gauge system
+466,Goa,"Morjim, Goa",ZWL006403,15.653757,73.747022,2 - Rain gauge system
+467,Goa,"Porvorim, Goa",ZWL005568,15.535007,73.827229,2 - Rain gauge system
+468,Ludhiana,"Sector 32, Ludhiana",ZWL009021,30.895881,75.906050,2 - Rain gauge system
+469,Ludhiana,"Civil Lines, Ludhiana",ZWL006208,30.916548,75.818266,2 - Rain gauge system
+470,Ludhiana,"Sarabha Nagar, Ludhiana",ZWL006788,30.891869,75.834901,2 - Rain gauge system
+471,Ludhiana,"BRS Nagar, Ludhiana",ZWL005256,30.897774,75.787544,2 - Rain gauge system
+472,Ludhiana,"Model Town, Ludhiana",ZWL001163,30.881060,75.875309,2 - Rain gauge system
+473,Ludhiana,"Ganesh Nagar, Ludhiana",ZWL003304,30.917540,75.879759,2 - Rain gauge system
+474,Ludhiana,"Dugri,Ludhiana",ZWL003119,30.856247,75.843129,2 - Rain gauge system
+475,Guwahati,"Pathar Quarry, Guwahati",ZWL006981,26.159879,91.827651,2 - Rain gauge system
+476,Guwahati,"Basistha-Lokhra, Guwahati",ZWL006537,26.116888,91.777488,2 - Rain gauge system
+477,Guwahati,"North Guwahati, Guwahati",ZWL009407,26.196471,91.684788,2 - Rain gauge system
+478,Guwahati,"Dharapur, Guwahati",ZWL004763,26.134004,91.623895,2 - Rain gauge system
+479,Guwahati,"Lal Ganesh - Kahilipara, Guwahati",ZWL007095,26.145102,91.752656,2 - Rain gauge system
+480,Guwahati,"Paltan-Bazar, Guwahati",ZWL002105,26.183358,91.752480,2 - Rain gauge system
+481,Guwahati,"Azara, Guwahati",ZWL003362,26.110966,91.602115,2 - Rain gauge system
+482,Guwahati,"Changsari, Guwahati",ZWL002491,26.262376,91.694879,2 - Rain gauge system
+483,Guwahati,"Maligaon - Jalukbari, Guwahati",ZWL005319,26.161285,91.689576,2 - Rain gauge system
+484,Guwahati,Zoo Tiniali - Christian basti,ZWL005708,26.177033,91.779799,2 - Rain gauge system
+485,Amritsar,"Himatpura, Amritsar",ZWL001780,31.608999,74.863051,2 - Rain gauge system
+486,Amritsar,"Rasulpur, Amritsar",ZWL008281,31.619590,74.915049,2 - Rain gauge system
+487,Amritsar,"Ranjit Avenue, Amritsar",ZWL004590,31.666773,74.850200,2 - Rain gauge system
+488,Amritsar,"White Avenue, Amritsar",ZWL002073,31.657377,74.889594,2 - Rain gauge system
+489,Amritsar,"Chheharta, Amritsar",ZWL005826,31.633049,74.817702,2 - Rain gauge system
+490,Amritsar,"Hall Bazar, Amritsar",ZWL007456,31.632158,74.866838,2 - Rain gauge system
+491,Bhopal,"Ashoka Garden, Bhopal",ZWL008755,23.260793,77.421525,2 - Rain gauge system
+492,Bhopal,"Shahpura,Bhopal",ZWL009428,23.176545,77.418255,2 - Rain gauge system
+493,Bhopal,"Airport Area, Bhopal",ZWL006900,23.290449,77.337426,2 - Rain gauge system
+494,Bhopal,"TT Nagar, Bhopal",ZWL002615,23.223600,77.392134,2 - Rain gauge system
+495,Bhopal,"BHEL, Bhopal",ZWL003463,23.267602,77.474332,2 - Rain gauge system
+496,Bhopal,"MP Nagar,Bhopal",ZWL002872,23.227641,77.447330,2 - Rain gauge system
+497,Bhopal,"Hoshangabad Road, Bhopal",ZWL005836,23.168118,77.482657,2 - Rain gauge system
+498,Bhopal,"People's Mall, Bhopal",ZWL003417,23.293081,77.396385,2 - Rain gauge system
+499,Visakhapatnam,"NAD, Vizag",ZWL001466,17.749616,83.230677,2 - Rain gauge system
+500,Visakhapatnam,Gajuwaka,ZWL003024,17.681004,83.207459,2 - Rain gauge system
+501,Visakhapatnam,Dwaraka Nagar,ZWL004755,17.739116,83.324672,2 - Rain gauge system
+502,Visakhapatnam,Madhurawada,ZWL009959,17.789823,83.373031,2 - Rain gauge system
+503,Bhubaneswar,"Madhusudan Nagar, Bhubaneswar",ZWL007491,20.278497,85.824922,2 - Rain gauge system
+504,Bhubaneswar,"Kalinga Nagar, Bhubneshwar",ZWL003084,20.277934,85.773884,2 - Rain gauge system
+505,Bhubaneswar,"Nayapalli, Bhubneshwar",ZWL003270,20.299879,85.813518,2 - Rain gauge system
+506,Bhubaneswar,"Sahid Nagar, Bhubaneshwar",ZWL007379,20.289125,85.856680,2 - Rain gauge system
+507,Bhubaneswar,"Lakshmi Sagar, Bhubneshwar",ZWL001823,20.266492,85.851166,2 - Rain gauge system
+508,Bhubaneswar,"Khandagiri, Bhubneshwar",ZWL004098,20.246979,85.766384,2 - Rain gauge system
+509,Bhubaneswar,"Jagmohan Nagar, Bhubaneswar",ZWL008906,20.257002,85.789371,2 - Rain gauge system
+510,Bhubaneswar,"Kharabela Nagar, Bhubaneswar",ZWL002821,20.271584,85.840940,2 - Rain gauge system
+511,Bhubaneswar,"Chandrasekharpur, Bhubaneswar",ZWL009572,20.317124,85.806992,2 - Rain gauge system
+512,Bhubaneswar,"Patia, Bhubneshwar",ZWL005652,20.363954,85.814321,2 - Rain gauge system
+513,Coimbatore,"Gandhipuram, Coimbatore",ZWL003661,11.019095,76.968472,2 - Rain gauge system
+514,Coimbatore,Vadavalli,ZWL005742,11.024820,76.900648,2 - Rain gauge system
+515,Coimbatore,"RS Puram, Coimbatore",ZWL008653,11.000355,76.941985,2 - Rain gauge system
+516,Coimbatore,"Racecourse, Coimbatore",ZWL002703,10.999272,76.975662,2 - Rain gauge system
+517,Coimbatore,"Saibaba Colony, Coimbatore",ZWL009668,11.032946,76.944253,2 - Rain gauge system
+518,Coimbatore,"Peelamedu, Coimbatore",ZWL007527,11.026179,77.005899,2 - Rain gauge system
+519,Coimbatore,"Podanur, Coimbatore",ZWL005468,10.977206,76.981702,2 - Rain gauge system
+520,Coimbatore,"Kunniamuthur, Coimbatore",ZWL004408,10.937589,76.933705,2 - Rain gauge system
+521,Coimbatore,"Ondipudur, Coimbatore",ZWL008265,10.997670,77.042986,2 - Rain gauge system
+522,Coimbatore,Koundampalayam,ZWL007600,11.068353,76.937962,2 - Rain gauge system
+523,Coimbatore,Saravanampatty,ZWL002147,11.070812,76.998053,2 - Rain gauge system
+524,Coimbatore,"Ganapathypudur, Coimbatore",ZWL009595,11.042698,76.984477,2 - Rain gauge system
+525,Coimbatore,"Sitra, and Singanallur, Coimbatore",ZWL001279,11.042569,77.054996,2 - Rain gauge system
+526,Mangalore,South Mangalore,ZWL006449,12.879030,74.854593,2 - Rain gauge system
+527,Mangalore,"Thokkattu, Mangalore",ZWL009478,12.820460,74.865765,2 - Rain gauge system
+528,Vadodara,Waghodia,ZWL002354,22.300216,73.229259,2 - Rain gauge system
+529,Vadodara,Fatehgunj,ZWL004097,22.315398,73.199769,2 - Rain gauge system
+530,Vadodara,Nizampura,ZWL009713,22.334731,73.176306,2 - Rain gauge system
+531,Vadodara,Diwalipura,ZWL008938,22.302691,73.156120,2 - Rain gauge system
+532,Vadodara,Akota,ZWL004439,22.298674,73.178672,2 - Rain gauge system
+533,Vadodara,"Manjalpur, Vadodara",ZWL002446,22.257070,73.191150,2 - Rain gauge system
+534,Vadodara,Shubhanpura,ZWL008232,22.321614,73.160014,2 - Rain gauge system
+535,Vadodara,Alkapuri,ZWL002475,22.313140,73.172760,2 - Rain gauge system
+536,Nagpur,Pratap Nagar,ZWL005549,21.114916,79.051774,2 - Rain gauge system
+537,Nagpur,Sadar,ZWL001438,21.171681,79.072065,2 - Rain gauge system
+538,Nagpur,"Kharabi, Nagpur",ZWL006432,21.144692,79.136306,2 - Rain gauge system
+539,Nagpur,Hanuman Nagar,ZWL009782,21.131152,79.100974,2 - Rain gauge system
+540,Nagpur,Dharampeth,ZWL008282,21.131547,79.056027,2 - Rain gauge system
+541,Nagpur,Manish Nagar,ZWL001041,21.091663,79.072458,2 - Rain gauge system
+542,Nagpur,"Ayodhya Nagar, Nagpur",ZWL007188,21.103625,79.104888,2 - Rain gauge system
+543,Nagpur,Gandhibagh,ZWL003633,21.146868,79.103994,2 - Rain gauge system
+544,Mysore,Central Mysore,ZWL002458,12.326689,76.633539,2 - Rain gauge system
+545,Surat,"Udhna, Surat",ZWL005095,21.166218,72.850231,2 - Rain gauge system
+546,Surat,"City Light, Surat",ZWL002155,21.159272,72.791465,2 - Rain gauge system
+547,Surat,Athwa,ZWL007951,21.168804,72.803931,2 - Rain gauge system
+548,Surat,"Vesu, Surat",ZWL006000,21.136777,72.762895,2 - Rain gauge system
+549,Surat,"Adajan, Surat",ZWL008198,21.211151,72.793110,2 - Rain gauge system
+550,Surat,"Varaccha, Surat",ZWL002771,21.210937,72.857374,2 - Rain gauge system
+551,Surat,"New Textile Market, Surat",ZWL005626,21.199018,72.828239,2 - Rain gauge system
+552,Surat,"Katargam, Surat",ZWL005423,21.231792,72.824230,2 - Rain gauge system
+553,Trivandrum,"Kazhakoottam, Thiruvananthapuram",ZWL009343,8.575170,76.904888,2 - Rain gauge system
+554,Trivandrum,Tvm Central,ZWL007746,8.490977,76.969250,2 - Rain gauge system
+555,Trivandrum,"Nemom, Thiruvananthapuram",ZWL002223,8.430376,77.027424,2 - Rain gauge system
+556,Vijayawada,"Governorpet, Vijayawada",ZWL005308,16.520989,80.636340,2 - Rain gauge system
+557,Vijayawada,"Gunadala, Vijayawada",ZWL004428,16.515748,80.690025,2 - Rain gauge system
+558,Vijayawada,"Gollapudi, Vijayawada",ZWL002106,16.541337,80.585061,2 - Rain gauge system
+559,Vijayawada,"Auto Nagar, Vijayawada",ZWL005858,16.487591,80.685560,2 - Rain gauge system
+560,Vijayawada,"Labbipet, Vijayawada",ZWL003905,16.510686,80.648812,2 - Rain gauge system
+561,Jalandhar,"Shastri Nagar, Jalandhar",ZWL009921,31.323693,75.583627,2 - Rain gauge system
+562,Jalandhar,"Gurdev Nagar, Jalandhar",ZWL002344,31.347368,75.566556,2 - Rain gauge system
+563,Jalandhar,"Paragpur, Jalandhar",ZWL001077,31.285004,75.648457,2 - Rain gauge system
+564,Jalandhar,"Model Town, Jalandhar",ZWL005408,31.299818,75.582441,2 - Rain gauge system
+565,Jalandhar,"Basti Nau, Jalandhar",ZWL001624,31.327456,75.549901,2 - Rain gauge system
+566,Jalandhar,"Rama Mandi, Jalandhar",ZWL004713,31.314281,75.617635,2 - Rain gauge system
+567,Jammu,"Greater Kailash, Jammu",ZWL007457,32.670712,74.901243,2 - Rain gauge system
+568,Jammu,"Barnai, Jammu",ZWL005892,32.755253,74.825204,2 - Rain gauge system
+569,Jammu,"Gandhi Nagar, Jammu",ZWL008753,32.704392,74.864830,2 - Rain gauge system
+570,Jammu,"OLD JAMMU, Jammu",ZWL008047,32.727614,74.856395,2 - Rain gauge system
+571,Jammu,"Channi Himmat, Jammu",ZWL002687,32.690740,74.886902,2 - Rain gauge system
+572,Raipur,"Shankar Nagar, Raipur",ZWL003195,21.251392,81.663850,2 - Rain gauge system
+573,Raipur,"Purena, Raipur",ZWL009896,21.235636,81.692460,2 - Rain gauge system
+574,Raipur,"Mowa, Raipur",ZWL001038,21.272467,81.671100,2 - Rain gauge system
+575,Raipur,Mahaveer Nagar,ZWL008872,21.210730,81.640523,2 - Rain gauge system
+576,Raipur,"Samta Colony, Raipur",ZWL004310,21.243164,81.621252,2 - Rain gauge system
+577,Raipur,"Civil Lines, Raipur",ZWL006651,21.243402,81.650848,2 - Rain gauge system
+578,Raipur,Devendra Nagar,ZWL008695,21.252033,81.650070,2 - Rain gauge system
+579,Raipur,"Moudhapara, Raipur",ZWL008436,21.256569,81.627672,2 - Rain gauge system
