@@ -9,6 +9,15 @@
 | Purpose | Link |
 | ------ | ----- |
 | Hands on Machine Learning | This book written by Geron, google please |
+| DeepLearning.ai |  [Deeplearning.ai](https://www.deeplearning.ai)
+
+
+### DeepLearning 
+
+| Sr no. |  Activities | Link to jupyter notebook |
+| ----- | ------- | ----- | 
+| 1 | How diffusion model works | 
+
 
 
 
