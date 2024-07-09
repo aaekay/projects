@@ -9,7 +9,8 @@
 | Purpose | Link |
 | ------ | ----- |
 | Hands on Machine Learning | This book written by Geron, google please |
-| DeepLearning.ai |  [Deeplearning.ai](https://www.deeplearning.ai)
+| DeepLearning.ai |  [Deeplearning.ai](https://www.deeplearning.ai) |
+| Andrej Karpathy (A living Legend) | | 
 
 
 ### DeepLearning 
