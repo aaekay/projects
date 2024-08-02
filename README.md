@@ -8,6 +8,7 @@ I have created several projects that I found interesting: <br>
 | 3. | [Proofreading Medical Research Papers](rr/) | Reproducible research - we verify medical literature |
 | 4. | [Telegram Bot to make](telegram_bot/) | Telegram bot to extract audio from youtube videos | 
 | 5. | Using Zomato's weather API | 
+| 6. | [My Journey to become a Quant](quant/) | 
 
 ### Comp_genomics
 This projects will be for the computational genomics with R which I am learning from compgenomr.github.io

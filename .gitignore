@@ -8,3 +8,4 @@
 *.log
 !ML/notebooks/*.ipynb
 *.py[cod]
+!data_science/*.ipynb

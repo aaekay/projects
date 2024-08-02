@@ -1,3 +1,4 @@
 diffusion_models/sprites_1788_16x16.npy
 !diffusion_models/L2_Training.ipynb
 !agents/*.ipynb
+!*.ipynb
