@@ -1,5 +1,8 @@
 ### Data science
 
+### Checking for normality of data
+1. Shapiro-Wilk Test
+
 List of data science projects:
 
 1. Regression project
